@@ -1,20 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
-<suite thread-count="3" name="LambaTestSuite" parallel="tests">
+<suite name="charityDataV1" annotations="JDK" parallel="tests">
 
-	<test name="Test3">
+	<test name="No0_100000">
  
     <classes>
-      <class name="com.charityData.testCases.Test3.java" />
+      <class name="com.charityData.testCases.No0_100000" />
 		
     </classes>
       </test>
       
-      <test name="Test3">
-    
-    <classes>
-      <class name="com.charityData.testCases.Test3.java" />
-		
-    </classes>
-      </test>
+      <test name="No100001_200000">
+     <classes>
+       <class name="com.charityData.testCases.No100001_200000"/>
+     </classes>
+   </test>
+   
+    <test name="No200001_300000">
+     <classes>
+       <class name="com.charityData.testCases.No200001_300000"/>
+     </classes>
+   </test>
+   
+   <test name="No300001_400000">
+     <classes>
+       <class name="com.charityData.testCases.No300001_400000"/>
+     </classes>
+   </test>
+   
+   <test name="No400001_500000">
+     <classes>
+       <class name="com.charityData.testCases.No400001_500000"/>
+     </classes>
+   </test>
+   
+   <test name="No500001_600000">
+     <classes>
+       <class name="com.charityData.testCases.No500001_600000"/>
+     </classes>
+   </test>
+      
+        <test name="No600001_700000">
+     <classes>
+       <class name="com.charityData.testCases.No600001_700000"/>
+     </classes>
+   </test>
+   
+      <test name="No700001_800000">
+     <classes>
+       <class name="com.charityData.testCases.No700001_800000"/>
+     </classes>
+   </test>
+   
+      <test name="No800001_900000">
+     <classes>
+       <class name="com.charityData.testCases.No800001_900000"/>
+     </classes>
+   </test>
+   
+      <test name="No900001_999999">
+     <classes>
+       <class name="com.charityData.testCases.No900001_999999"/>
+     </classes>
+   </test>
+   
 </suite>

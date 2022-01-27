@@ -5,62 +5,152 @@
 	<test name="No0_100000">
  
     <classes>
-      <class name="com.charityData.testCases.No0_100000" />
+      <class name="com.charityData.testCases.No0_10000" />
 		
     </classes>
       </test>
       
-      <test name="No100001_200000">
+      <test name="No10000_20000">
      <classes>
-       <class name="com.charityData.testCases.No100001_200000"/>
+       <class name="com.charityData.testCases.No10000_20000"/>
      </classes>
    </test>
    
-    <test name="No200001_300000">
+    <test name="No20000_30000">
      <classes>
-       <class name="com.charityData.testCases.No200001_300000"/>
+       <class name="com.charityData.testCases.No20000_30000"/>
      </classes>
    </test>
    
-   <test name="No300001_400000">
+   <test name="No30000_40000">
      <classes>
-       <class name="com.charityData.testCases.No300001_400000"/>
+       <class name="com.charityData.testCases.No30000_40000"/>
      </classes>
    </test>
    
-   <test name="No400001_500000">
+   <test name="No40000_50000">
      <classes>
-       <class name="com.charityData.testCases.No400001_500000"/>
+       <class name="com.charityData.testCases.No40000_50000"/>
      </classes>
    </test>
    
-   <test name="No500001_600000">
+   <test name="No50000_60000">
      <classes>
-       <class name="com.charityData.testCases.No500001_600000"/>
+       <class name="com.charityData.testCases.No50000_60000"/>
      </classes>
    </test>
       
-        <test name="No600001_700000">
+        <test name="No60000_70000">
      <classes>
-       <class name="com.charityData.testCases.No600001_700000"/>
+       <class name="com.charityData.testCases.No60000_70000"/>
      </classes>
    </test>
    
-      <test name="No700001_800000">
+      <test name="No70000_80000">
      <classes>
-       <class name="com.charityData.testCases.No700001_800000"/>
+       <class name="com.charityData.testCases.No70000_80000"/>
      </classes>
    </test>
    
-      <test name="No800001_900000">
+      <test name="No80000_90000">
      <classes>
-       <class name="com.charityData.testCases.No800001_900000"/>
+       <class name="com.charityData.testCases.No80000_90000"/>
      </classes>
    </test>
    
-      <test name="No900001_999999">
+      <test name="No90000_100000">
      <classes>
-       <class name="com.charityData.testCases.No900001_999999"/>
+       <class name="com.charityData.testCases.No90000_100000"/>
+     </classes>
+   </test>
+   
+   <test name="No100000_110000">
+     <classes>
+       <class name="com.charityData.testCases.No100000_110000"/>
+     </classes>
+   </test>
+   
+   <test name="No110000_120000">
+     <classes>
+       <class name="com.charityData.testCases.No110000_120000"/>
+     </classes>
+   </test>
+   
+    <test name="No120000_130000">
+     <classes>
+       <class name="com.charityData.testCases.No120000_130000"/>
+     </classes>
+   </test>
+   
+    <test name="No130000_140000">
+     <classes>
+       <class name="com.charityData.testCases.No130000_140000"/>
+     </classes>
+   </test>
+   
+    <test name="No140000_150000">
+     <classes>
+       <class name="com.charityData.testCases.No140000_150000"/>
+     </classes>
+   </test>
+   
+   <test name="No150000_160000">
+     <classes>
+       <class name="com.charityData.testCases.No150000_160000"/>
+     </classes>
+   </test>
+   
+   <test name="No160000_170000">
+     <classes>
+       <class name="com.charityData.testCases.No160000_170000"/>
+     </classes>
+   </test>
+   
+   <test name="No170000_180000">
+     <classes>
+       <class name="com.charityData.testCases.No170000_180000"/>
+     </classes>
+   </test>
+   
+   <test name="No180000_190000">
+     <classes>
+       <class name="com.charityData.testCases.No180000_190000"/>
+     </classes>
+   </test>
+   
+    <test name="No190000_200000">
+     <classes>
+       <class name="com.charityData.testCases.No200000_210000"/>
+     </classes>
+   </test>
+   
+   <test name="No200000_210000">
+     <classes>
+       <class name="com.charityData.testCases.No200000_210000"/>
+     </classes>
+   </test>
+   
+    <test name="No210000_220000">
+     <classes>
+       <class name="com.charityData.testCases.No210000_220000"/>
+     </classes>
+   </test>
+   
+   <test name="No220000_230000">
+     <classes>
+       <class name="com.charityData.testCases.No220000_230000"/>
+     </classes>
+   </test>
+   
+    <test name="No230000_240000">
+     <classes>
+       <class name="com.charityData.testCases.No230000_240000"/>
+     </classes>
+   </test>
+   
+   <test name="No240000_250000">
+     <classes>
+       <class name="com.charityData.testCases.No250000_260000"/>
      </classes>
    </test>
    
